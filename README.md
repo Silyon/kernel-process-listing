@@ -1,2 +1,2 @@
-# kernel-process-listing
-A small kernel module for Linux which lists all processes in the terminal when you press Q.
+# kernel-process-list
+A kernel module for linux which lists processes when the key 'Q' is pressed.
